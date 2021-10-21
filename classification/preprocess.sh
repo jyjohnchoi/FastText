@@ -1,0 +1,16 @@
+python preprocess.py --data_path 0 --bigrams True
+python preprocess.py --data_path 0 --bigrams False
+python preprocess.py --data_path 1 --bigrams True
+python preprocess.py --data_path 1 --bigrams False
+python preprocess.py --data_path 2 --bigrams True
+python preprocess.py --data_path 2 --bigrams False
+python preprocess.py --data_path 3 --bigrams True
+python preprocess.py --data_path 3 --bigrams False
+python preprocess.py --data_path 4 --bigrams True
+python preprocess.py --data_path 4 --bigrams False
+python preprocess.py --data_path 5 --bigrams True
+python preprocess.py --data_path 5 --bigrams False
+python preprocess.py --data_path 6 --bigrams True
+python preprocess.py --data_path 6 --bigrams False
+python preprocess.py --data_path 7 --bigrams True
+python preprocess.py --data_path 7 --bigrams False

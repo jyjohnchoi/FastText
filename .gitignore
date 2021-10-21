@@ -1,0 +1,9 @@
+*/log/*
+*/results/*
+*/dataset/*
+*/dicts/*
+*/dicts_bigram/*
+*/preprocessed/*
+*/data/*
+subword/word_to_ngram_indices.pkl
+
